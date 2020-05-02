@@ -10,7 +10,7 @@
     "nested",
     "validation"
   ],
-  "version": "6.0.5",
+  "version": "6.0.7",
   "license": "Apache-2.0",
   "homepage": "https://github.com/mozilla/node-convict",
   "repository": {
@@ -28,5 +28,6 @@
   "dependencies": {
     "lodash.clonedeep": "^4.5.0",
     "yargs-parser": "^18.1.3"
-  }
+  },
+  "gitHead": "0b3b380e57874e60548fa711fecbc1397b0b61dc"
 }
