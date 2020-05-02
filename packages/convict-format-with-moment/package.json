@@ -1,6 +1,6 @@
 {
   "author": "Lloyd Hilaiel <lloyd@hilaiel.com> (http://lloyd.io)",
-  "name": "convict-format-with-moment",
+  "name": "@madarche/convict-format-with-moment",
   "description": "Formats 'duration' and 'timestamp' for convict",
   "keywords": [
     "convict",

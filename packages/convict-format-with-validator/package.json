@@ -1,6 +1,6 @@
 {
   "author": "Lloyd Hilaiel <lloyd@hilaiel.com> (http://lloyd.io)",
-  "name": "convict-format-with-validator",
+  "name": "@madarche/convict-format-with-validator",
   "description": "Formats 'email', 'ipaddress' and 'url' for convict",
   "keywords": [
     "convict",
